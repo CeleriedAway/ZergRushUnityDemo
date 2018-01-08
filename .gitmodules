@@ -1,0 +1,3 @@
+[submodule "Assets/ZergRush"]
+	path = Assets/ZergRush
+	url = git@github.com:CeleriedAway/ZergRush.git
