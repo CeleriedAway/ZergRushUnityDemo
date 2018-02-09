@@ -684,6 +684,7 @@ Camera:
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 1
+  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -1483,21 +1484,6 @@ Prefab:
         type: 2}
       propertyPath: m_Pivot.y
       value: 0.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 224302509506822404, guid: 376d27059c2a103488c60e28329cb313,
-        type: 2}
-      propertyPath: m_LocalScale.x
-      value: 0.99969226
-      objectReference: {fileID: 0}
-    - target: {fileID: 224302509506822404, guid: 376d27059c2a103488c60e28329cb313,
-        type: 2}
-      propertyPath: m_LocalScale.y
-      value: 0.99969226
-      objectReference: {fileID: 0}
-    - target: {fileID: 224302509506822404, guid: 376d27059c2a103488c60e28329cb313,
-        type: 2}
-      propertyPath: m_LocalScale.z
-      value: 0.99969226
       objectReference: {fileID: 0}
     - target: {fileID: 1288932451762184, guid: 376d27059c2a103488c60e28329cb313, type: 2}
       propertyPath: m_Name
